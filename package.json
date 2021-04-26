@@ -1,6 +1,6 @@
 {
   "name": "bower-to-s3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Upload bower packages to S3",
   "keywords": [
     "s3",
@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/signalfx/bower-to-s3",
   "dependencies": {
-    "bower": "1.7.9",
+    "bower": "1.8.12",
     "commander": "^2.7.1",
     "its": "^1.0.2",
     "q": "^1.2.0",
